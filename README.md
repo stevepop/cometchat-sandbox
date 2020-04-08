@@ -69,3 +69,8 @@ Run the dev server or use Laravel valet:
 ```sh
 php artisan serve
 ```
+
+Open two browsers and go to the register link 'http://localhost:8000/register'
+
+-   Sign up with different usernames
+-   Send message in one chat page and see it appear on the other chat page
